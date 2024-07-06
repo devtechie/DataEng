@@ -1,2 +1,2 @@
 # DataEng
-This repo will contain code for data engineering projects
+This repo will contain code snippets for data engineering projects
